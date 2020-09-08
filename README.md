@@ -1,4 +1,4 @@
-# hw1
+# Merdad Karkudi hw1
 Merdad Homework 1
 This homework is about to change some code in html and css and added comments.
 "alt" for images
