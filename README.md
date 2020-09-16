@@ -21,7 +21,6 @@ The web page can be found better in search engines such as Google, Bing, etc…
 •	Credits
 Thanks to John Young my class instructor and Ben Vaagen my TA. Also an special Thank to Dan Mont-Eton my TA for helping me to understand the class and homework contents.
 
-screenshot of the final project ;
  
  
 
