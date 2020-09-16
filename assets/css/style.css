@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* changed CSS class to HTML semantic element header */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -23,7 +23,7 @@ header h1 {
 header h1 .seo {
     color: #d9dcd6;
 }
-
+/* changed class and ID and add nav */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -68,13 +68,13 @@ p {
     float: right;
     margin-left: 25px;
 }
-
+/* the CSS class to HTML semantic element (main) */
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/* changed the class to HTML semantic file (aside) */
 aside {
     margin-right: 20px;
     padding: 20px 20px 28px 20px;
@@ -134,8 +134,8 @@ aside {
     margin: 10px auto;
     max-width: 150px;
 }
-
-.search-engine-optimization {
+/* added semantic element "section" */
+ section .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -143,8 +143,8 @@ aside {
     background-color: #0072bb;
     color: #ffffff;
 }
-
-.online-reputation-management {
+/* added semantic element "section" */
+section .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -152,8 +152,8 @@ aside {
     background-color: #0072bb;
     color: #ffffff;
 }
-
-.social-media-marketing {
+/* added semantic element "section" */
+ section .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -188,7 +188,7 @@ aside {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* chaned CSS class to HTML element (Foote) */
 footer {
     position: static;
     padding: 30px;
